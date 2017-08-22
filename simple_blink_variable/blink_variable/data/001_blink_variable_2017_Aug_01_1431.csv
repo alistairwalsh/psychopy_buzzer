@@ -1,0 +1,6 @@
+trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,key_resp_2.keys,key_resp_2.rt,key_resp_3.keys,key_resp_3.rt,date,frameRate,expName,session,participant,
+0,0,0,0,right,9.09501385689,space,6.98716497421,2017_Aug_01_1431,60.0326906837,blink_variable,001,001,
+1,0,1,0,left,9.96888303757,space,4.20420002937,2017_Aug_01_1431,60.0326906837,blink_variable,001,001,
+2,0,2,0,right,8.75952601433,space,7.46967411041,2017_Aug_01_1431,60.0326906837,blink_variable,001,001,
+3,0,3,0,right,7.06923699379,space,4.22568893433,2017_Aug_01_1431,60.0326906837,blink_variable,001,001,
+4,0,4,0,right,16.9046421051,space,18.3458240032,2017_Aug_01_1431,60.0326906837,blink_variable,001,001,
